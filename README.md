@@ -1,2 +1,16 @@
-# To-Do-List
-This project is a simple and elegant to-do list application built using HTML, CSS, and JavaScript. The app allows users to add, manage, and delete tasks, helping them stay organized and productive. Designed with a clean and modern UI, this project demonstrates my frontend development skills and attention to detail.
+# To-Do List
+
+A simple **To-Do List** application built using **HTML**, **CSS**, and **JavaScript**. This project helps you manage tasks easily by adding, marking as complete, and deleting them.
+
+## Features
+
+- Add tasks to the list
+- Mark tasks as completed
+- Delete tasks from the list
+
+## How to Use
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/kashish049/To-Do-List.git
