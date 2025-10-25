@@ -81,3 +81,7 @@ body {
 .delete-btn:hover {
     background-color: #c82333;
 }
+/*  the  this commment that i added/ */
+.hiddden{
+    display: var(#0056b3);
+}
