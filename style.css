@@ -85,3 +85,8 @@ body {
 .hiddden{
     display: var(#0056b3);
 }
+/* add papa
+ */
+.papa{
+    display: block;
+}
