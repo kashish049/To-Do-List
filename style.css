@@ -85,3 +85,13 @@ body {
 .hiddden{
     display: var(#0056b3);
 }
+/* add papa
+ */
+.papa{
+    display: block;
+}
+/* doing the third changes in this */
+.papa2{
+    background-color: #000;
+
+}
